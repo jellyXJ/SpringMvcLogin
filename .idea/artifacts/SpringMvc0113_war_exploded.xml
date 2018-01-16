@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SpringMvc0113:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringMvc0113_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SpringMvc0113/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SpringMvc0113" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring-4.3.13.RELEASE" />
+          <element id="library" level="project" name="Spring MVC-4.3.13.RELEASE" />
+          <element id="library" level="project" name="aspectj-1.8.13" />
+          <element id="library" level="project" name="aspectjrt-1.8.13" />
+          <element id="library" level="project" name="aspectjweaver-1.8.13" />
+          <element id="library" level="project" name="org.thymeleaf:thymeleaf:Release" />
+          <element id="library" level="project" name="org.thymeleaf:thymeleaf-spring4:Release" />
+          <element id="library" level="project" name="commons-io-2.4" />
+          <element id="library" level="project" name="commons-fileupload-1.2.2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
